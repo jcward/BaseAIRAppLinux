@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<application xmlns="http://ns.adobe.com/air/application/3.6">
+	<id>com.jcward.example</id>
+	<filename>Example</filename>
+	<name>Example</name>
+	<versionNumber>0.0.1</versionNumber>
+
+	<initialWindow>
+		<content>Main.swf</content>
+    <renderMode>direct</renderMode>
+    <aspectRatio>landscape</aspectRatio> 
+   	<autoOrients>false</autoOrients>
+  </initialWindow>
+</application>
